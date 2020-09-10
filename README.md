@@ -16,6 +16,7 @@ This is a simple web project, deployment can be done on any web server.
 
 ## How to contribute
 
+Please for this repository and then issue pull request for review.
 
 ### Copyright
 
