@@ -15,3 +15,8 @@ As stated above, the main purpose is to provide simple examples for it training 
 This is a simple web project, deployment can be done on any web server.
 
 ## How to contribute
+
+
+### Copyright
+
+2020 Copyright by Kamil
