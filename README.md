@@ -20,4 +20,5 @@ Please for this repository and then issue pull request for review.
 
 ### Copyright
 
-2020 Copyright by Kamil
+2020 Copyright by Kamil Niklasinski (Warsaw)
+New company incorporated.
