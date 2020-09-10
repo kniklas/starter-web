@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kamil Niklasinski	kamil@niklasinski.com 	@kniklasinski
 
 # THANKS
 
